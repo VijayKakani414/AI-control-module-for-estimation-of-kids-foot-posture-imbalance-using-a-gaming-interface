@@ -4,7 +4,7 @@ This repository contains all my research project details pertaining to the AI co
 
 ## AI control pipeline (standalone) without Unreal Engine gaming interface
 
-
+<img width="1324" alt="AI_model_structure" src="https://github.com/VijayKakani414/AI-control-module-for-estimation-of-kids-foot-posture-imbalance-using-a-gaming-interface/assets/25151205/26be47de-49eb-4621-a3ec-474fef75c039">
 
 ## Overview
 
@@ -36,7 +36,7 @@ cd AI-control-module-for-estimation-of-kids-foot-posture-imbalance-using-a-gamin
 
 ## Standalone evaluation of the left and right models w.r.t sample subjects
 
-
+![loss_accuracy_curves](https://github.com/VijayKakani414/AI-control-module-for-estimation-of-kids-foot-posture-imbalance-using-a-gaming-interface/assets/25151205/3a59a936-7c37-4fbd-829d-d26e298106d6)
 
 ## Contribution Guidelines
 
